@@ -2,6 +2,7 @@
 
 
 As well assumed by the name , this is a simple Personal Project Management Application.
+I commenced creating the project last night , and just now , it is finally ready for deployment. 
 
 
 Question :
